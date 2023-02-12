@@ -10,4 +10,6 @@
     <string name="button_share">Share This Text</string>
     <string name="share_text_with">"Share this text with: "</string>
 
+    <string name="camera_button_text">Take a picture</string>
+
 </resources>
